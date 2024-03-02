@@ -60,7 +60,8 @@
         text-align: center;
         border: none;        
         margin-left: 10px;
-        z-index:1
+        z-index:1;
+        cursor: pointer;
     }
     button:focus {
       color:red
