@@ -42,17 +42,17 @@
         <div class="catalog-flex-item">
             <img src="\public\1.svg">
             <span>Jacket</span>
-            <span>70$</span>            
+            <span>110$</span>            
         </div>
         <div class="catalog-flex-item">
             <img src="\public\3.svg">
             <span>Jacket</span>
-            <span>60$</span>
+            <span>35$</span>
         </div>
         <div class="catalog-flex-item">
             <img src="\public\13.svg">
             <span>Jacket</span>
-            <span>50$</span>
+            <span>85$</span>
         </div>
     </div>
     <span class="showing">Showing 9 of 45 items</span>
