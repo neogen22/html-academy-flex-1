@@ -49,13 +49,13 @@
             </div>
             <div class="card-container-end-inside-card">
                 <img src="\public\21.svg">
-                <span>Overalls</span>
-                <span>$110</span>
+                <span>Jacket</span>
+                <span>$70</span>
             </div>
             <div class="card-container-end-inside-card">
                 <img src="\public\41.svg">
-                <span>Overalls</span>
-                <span>$110</span>
+                <span>Jacket</span>
+                <span>$60</span>
             </div>
         </div>
     </body>    
